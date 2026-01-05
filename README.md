@@ -54,11 +54,3 @@ The notebook reports training and validation losses across epochs and shows BLEU
 * Attention heatmaps highlight how the decoder attends to different source tokens when generating each target word.
 * Common limitations include sensitivity to rare words, difficulties translating long sentences and occasional grammatical errors, which can be addressed by larger models, more data or transformer architectures.
 
-## How to run the notebook
-
-Follow these steps to reproduce the experiments:
-
-1. **Install dependencies:** Clone this repository and install required packages using pip:
-
-   ```bash
-   pip install -r requirements.txt
